@@ -1,1 +1,1 @@
-MySecondFile.txt,“thisissomeothertext and random stuff,”
+MySecondFile.txt,“thisissomeothertext,”
